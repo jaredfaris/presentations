@@ -1,0 +1,7 @@
+{ 
+  "name": "JavaScript - First Class Citizen", 
+  "sections": [ 
+    { "section" : "title" },
+    { "section" : "testing" }
+  ]
+}
